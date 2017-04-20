@@ -40,3 +40,4 @@
 6.Target -> Manual Programming -> Program & Verify.
 
 # Download app mobi nRF UART v2.0 transmit and receive data.
+1.Download app mobi nRF UART v2.0 transmit and receive data.
