@@ -20,7 +20,7 @@
 
 2. connect module nRf52832 to j-link-ARM:
 
-   module nRf52832  | j-link-ARM
+   module nRf52832  |   j-link-ARM
    
 	    VDD        ->    3V3
 		
