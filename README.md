@@ -38,3 +38,5 @@
 5.File -> Open data file.(select file.h).
 
 6.Target -> Manual Programming -> Program & Verify.
+
+# Download app mobi nRF UART v2.0 transmit and receive data.
