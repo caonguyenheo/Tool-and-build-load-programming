@@ -21,10 +21,15 @@
 2. connect module nRf52832 to j-link-ARM:
 
    module nRf52832  | j-link-ARM
+   
 	    VDD        ->    3V3
+		
 	    SDO        ->    SWIO
+		
 	    SCLK       ->    SWCK
+		
 	    GND        ->    GND
+		
 
 3.open j-Flash move options -> Project settings -> MCU -> Device -> nRF52832_xxAA.
 
