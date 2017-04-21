@@ -14,20 +14,20 @@
 
 3. Load programming to  board development kit pca10040 Press F8 or move Flash -> Download
 
-4.form legging have 9 wire connect to board development kit pca10040 
+4. form legging have 9 wire connect to board development kit pca10040 
 
 		legging  	|  	kit pca10040 
-	  3 wire oranges  ->   VDD
+	     3 wire oranges  ->   VDD
 	
-	  2 wire white    ->   GND
+	     2 wire white    ->   GND
 	  
-	  1 wire black    ->   GND
+	     1 wire black    ->   GND
 	  
-	  1 wire yellow   ->  P0.03
+	     1 wire yellow   ->  P0.03
 	  
-	  1 wire green    ->  P0.04
+	     1 wire green    ->  P0.04
 	  
-	  1 wire blue     ->  P0.28
+	     1 wire blue     ->  P0.28
 	  
 
 # How build and load programming to module nRf52832(using tool jlink).
