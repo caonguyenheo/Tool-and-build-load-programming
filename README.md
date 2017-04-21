@@ -5,7 +5,7 @@
 
 	   -At this step connect board development kit pca10040 to computer by usb.
 	   
-3.nrfgostudio_win-32_1.21.2_installer or nrfgostudio_win-64_1.21.2_installer( dependent computer  32 bit hoặc 64 bit).
+3.setting nrfgostudio_win-32_1.21.2_installer or nrfgostudio_win-64_1.21.2_installer( dependent computer  32 bit hoặc 64 bit).
 
 # How build and load programming to board development kit pca10040(using IDE keil c).
 1. connect board development kit pca100040 to computer by usb 
@@ -33,7 +33,9 @@
 # How build and load programming to module nRf52832(using tool jlink).
 1.Download jlink: https://www.segger.com/downloads/jlink
 
-2. connect module nRf52832 to j-link-ARM:
+2.setting j-Flash.
+
+3.connect module nRf52832 to j-link-ARM:
 
    module nRf52832  |   j-link-ARM
    
